@@ -1,4 +1,4 @@
-name: Deploy HTML Files to AppService - UMGC-385
+name: Deploy HTML Files to AppService - CMST385
 
 on:
 
@@ -28,4 +28,4 @@ jobs:
 
         slot-name: 'production'
 
-        publish-profile: ${{ secrets.AppServiceUMGC-385 }}
+        publish-profile: ${{ secrets.AppServiceCMST385 }}
