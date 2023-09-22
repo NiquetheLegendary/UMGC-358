@@ -33,18 +33,20 @@ body{
 	background-position: center;
         position: relative;
     }
-    .fixed-header, .fixed-footer{
+    header,footer{
         width: 100%;
-        position: fixed;        
-        background: #333;
+        position: absolute;        
+        background: #000;
         padding: 10px 0;
-        color: #fff;
+        color:white;
     }
-    .fixed-header{
-        top: 0;
+    header{
+        height: 10vh;
+	top: 0;
     }
-    .fixed-footer{
-        bottom: 0;
+    footer{
+        height: 15vh;
+	bottom: 0;
     }    
     
     nav a{
