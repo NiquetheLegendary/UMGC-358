@@ -28,7 +28,7 @@
     .container{
         height: 100vh;
 	width: 100%
-	background-image:;
+	background-image: URL('KEM-gray.jpg');
 	background-size: cover;
 	background-position: center;
         position: relative;
