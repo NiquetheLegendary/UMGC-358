@@ -72,6 +72,18 @@ body{
 </style>
 </head>
 <body>
-
+<div class="fixed-header">
+        <div class="container">
+            <nav>
+                <a href="#">Home</a>
+                <a href="#">News</a>
+                <a href="#">Music</a>
+                <a href="#">Events</a>
+                <a href="#">Contacts</a>
+                <a href="#">videos</a>
+            </nav>
+        </div>
+    </div>
+    <div class="container">
 </body>
 </html>
