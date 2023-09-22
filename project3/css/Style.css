@@ -26,7 +26,11 @@
   margin: 40px;
 }
     .container{
-        min-height: 100%
+        height: 100vh;
+	width: 100%
+	background-image:;
+	background-size: cover;
+	background-position: center;
         position: relative;
     }
     .fixed-header, .fixed-footer{
