@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+   
+    body{        
+        background-color: gray;
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    
+    h1 {
+  color: white;
+  font-family: "verdana", Arial, san-serif;
+  font-size:20px; 
+  align: center;
+  font-weight: bold;
+}
+
+	h2 {
+  color: white;
+  font-family: "verdana", Arial, san-serif;
+  font-size:20px; 
+  align: center;
+  font-weight: bold;
+}
+	p {
+  color: white;
+  font-family: "verdana", Arial, san-serif;
+  font-size:10px;
+  margin: 40px;
+}
+    .container{
+        min-height: 100%
+        position: relative;
+    }
+    .fixed-header, .fixed-footer{
+        width: 100%;
+        position: fixed;        
+        background: #333;
+        padding: 10px 0;
+        color: #fff;
+    }
+    .fixed-header{
+        top: 0;
+    }
+    .fixed-footer{
+        bottom: 0;
+    }    
+    
+    nav a{
+        color: #ffff;
+        text-decoration: none;
+        padding: 7px 25px;
+        display: inline-block;
+    }
+    .container p{
+        line-height: 200px; 
+    }
+    
+   	.first{
+    	color:white;
+    }
+    .img{
+    width: 500px;
+    height: 500px;
+    }
+</style>
+</head>
+<body>
+<img src="KEM-gray.png"class="img">
+    <div class="fixed-header">
+        <div class="container">
+            <nav>
+                <a href="#">Home</a>
+                <a href="#">News</a>
+                <a href="#">Music</a>
+                <a href="#">Events</a>
+                <a href="#">Contacts</a>
+                <a href="#">videos</a>
+            </nav>
+        </div>
+    </div>
+    <div class="container">
+    <h1>My First CSS Example</h1>
+    	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. Vestibulum id metus ac nisl bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet sagittis. In tincidunt orci sit amet elementum vestibulum. Vivamus fermentum in arcu in aliquam. Quisque aliquam porta odio in fringilla. Vivamus nisl leo, blandit at bibendum eu, tristique eget risus. Integer aliquet quam ut elit suscipit, id interdum neque porttitor. Integer faucibus ligula.</p>
+        <h2>My Second CSS Example</h2>
+        <p>Quis quam ut magna consequat faucibus. Pellentesque eget nisi a mi suscipit tincidunt. Ut tempus dictum risus. Pellentesque viverra sagittis quam at mattis. Suspendisse potenti. Aliquam sit amet gravida nibh, facilisis gravida odio. Phasellus auctor velit at lacus blandit, commodo iaculis justo viverra. Etiam vitae est arcu. Mauris vel congue dolor. Aliquam eget mi mi. Fusce quam tortor, commodo ac dui quis, bibendum viverra erat. Maecenas mattis lectus enim, quis tincidunt dui molestie euismod. Curabitur et diam tristique, accumsan nunc eu, hendrerit tellus.</p>
+    </div>    
+    <div class="fixed-footer">
+        <div class="container">Copyright &copy; 2023 Your Company</div>        
+    </div>
+</body>
+</html>
