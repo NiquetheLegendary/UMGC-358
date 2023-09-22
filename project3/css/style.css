@@ -1,91 +1,87 @@
-body{        
-        background-color: gray;
-        padding-top: 60px;
-        padding-bottom: 40px;
-    }
-     }
-    header,footer{
-        width: 100%;
-        position: absolute;        
+ body{        
+        font-family: "verdana", Arial, san-serif;
+		background-color: gray;
+        color: white;
+    }*{
+		margin:0;
+		padding:0;
+	}
+ header,footer{
+		position: absolute;        
         background: #000;
-        padding: 10px 0;
-        color:white;
-    }
-    header{
-        height: 10vh;
-	top: 0;
-    }
-    footer{
-        height: 15vh;
-	bottom: 0;
-    }    
-    
-    nav a{
-        color: #ffff;
+		width: 100%;
+		color:white;
+	}
+	header h2{
+		position: absolute;
+		margin-top:20px;
+		left:20%
+		color: lightblue;
+	}
+	header{
+		height: 10vh;
+	}
+	footer{
+		height: 15vh;
+		bottom:0;
+	}
+	footer h2{
+		position: absolute;
+		left:45%;
+	}
+	.nav{
+		position: absolute;
+		width:100%;
+	}
+	nav a{
+        position: relative;
+		left:45%
+		top:20px;
+		color:white;
         text-decoration: none;
+		margin-right:20px;
         padding: 7px 25px;
         display: inline-block;
     }
-    h1 {
-  color: white;
-  font-family: "verdana", Arial, san-serif;
-  font-size:20px; 
-  align: center;
-  font-weight: bold;
-}
+    footer p{
+		position: absolute;
+		left:48%;
+		bottom:20px;
+		color:lightblue
+	
+	}
+	h1 {
+		color: white;
+		font-family: "verdana", Arial, san-serif;
+		font-size:20px; 
+		align: center;
+		font-weight: bold;
+	}
 
 	h2 {
-  color: white;
-  font-family: "verdana", Arial, san-serif;
-  font-size:20px; 
-  align: left;
-  font-weight: bold;
-}
+		color: white;
+		font-family: "verdana", Arial, san-serif;
+		font-size:20px; 
+		align: left;
+		font-weight: bold;
+	}
 	p {
-  color: white;
-  font-family: "verdana", Arial, san-serif;
-  font-size:10px;
-  margin: 40px;
-}
-    .container{
+		color: white;
+		font-family: "verdana", Arial, san-serif;
+		font-size:10px;
+		margin: 40px;
+	}
+	 .container {
+        display: grid;
+		 
+    }
+	 .container a{
         height: 100vh;
-	width: 100%
-	background-image: URL('KEM-gray.jpg');
-	background-size: cover;
-	background-position: center;
+		width: 100%
+		background-image: URL('KEM-gray.jpg');
+		background-size: cover;
+		background-position: center;
         position: relative;
    
     .container p{
-        line-height: 200px; 
-    }
-    
-   	.first{
-    	color:white;
-    }
-    .img{
-    width: 500px;
-    height: 500px;
-    }
-
-.img2{
-    width: 200px;
-    height: 200px;
-    }
-</style>
-</head>
-<body>
-<div class="fixed-header">
-        <div class="container">
-            <nav>
-                <a href="#">Home</a>
-                <a href="#">News</a>
-                <a href="#">Music</a>
-                <a href="#">Events</a>
-                <a href="#">Contacts</a>
-                <a href="#">videos</a>
-            </nav>
-        </div>
-    </div>
-    <div class="container">
-</body>
-</html>
+        line-height: 200px;
