@@ -1,8 +1,8 @@
 body{        
-        font-family: "verdana", Arial, san-serif;
+	font-family: "verdana", Arial, san-serif;
 	background-color: gray;
         color: white;
-    }*{
+}*{
 	margin:0;
 	padding:0;
 }
