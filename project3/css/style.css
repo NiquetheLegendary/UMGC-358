@@ -38,7 +38,7 @@ body {
 	color: white;
 }
 .footer-main{
-	position: fixed;
+	position: absolute;
 	bottom: 0;
 	Width: 100%;
 	background-color: #ebf6f9;
@@ -48,7 +48,7 @@ body {
 }
 
 .footer-main h1{
-	font-size: 10px;
+	font-size:20px;
 }
 
 h1 {
