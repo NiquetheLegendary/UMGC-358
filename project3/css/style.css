@@ -56,15 +56,13 @@ body {
 	font-size: 17px;	   
 }
 
-.footer-main a:hover{
-    	background-color: #ddd;
-	color: black;	
-
+.footer-main{
+	Width: 100%;
+	height: 60px;
+	background-color: #ebf6f9;
+	display: flex; 
+	Justify-content: space-between;
 }
-
-.footer-main a.active{
-	background-color:#04AA6D;
-	color: white;
 
 h1 {
 	color: white;
