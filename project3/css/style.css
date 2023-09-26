@@ -81,6 +81,7 @@ p {
 }
 
 .container {
-    display: grid;		 
+    display: grid;
+    color: white;
 }
 
