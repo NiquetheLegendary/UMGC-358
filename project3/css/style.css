@@ -83,5 +83,6 @@ p {
 .container {
     display: grid;
     color: white;
+    padding: 30px;
 }
 
