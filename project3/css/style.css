@@ -49,14 +49,14 @@ body {
 }
 
 .footer{
-	text-align:center;
+	text-align: center;
 	background-color: #ebf6f9;
 	color: black;
 	Padding: 20px;
-	position: absolute;
+	position: fixed;
 	bottom: 0;
 	width: 100%;
-
+}
 
 h1 {
 	color: white;
