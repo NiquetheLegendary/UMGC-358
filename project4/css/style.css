@@ -21,27 +21,18 @@ nav .logo p{
 	cursor: pointer;
 }
 
-nav topnav{
-	float:right;
-	
+nav ul{
+	float:right;	
 }
 
-nav topnav a{
+nav li{
 	display: inline-block;
 	list-style: none;
 }
 
-nav topnav a:hover{
+nav li a{
     	background-color: #ddd;
 	color: black;
-	
-
-}
-
-nav topnav a.active{
-	background-color: green;
-	color: white;
-}
 }
 
 h1 {
