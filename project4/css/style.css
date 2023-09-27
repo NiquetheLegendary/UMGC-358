@@ -120,8 +120,8 @@ footer{
 	justify-content: flex-end;
 	align-items: flex-end;
 	margin: 10px auto;
-	bottom: 0;
-	width:100vw;
+	width: 20%;
+	height: 20%;
 	padding: 20px;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,0.5);
