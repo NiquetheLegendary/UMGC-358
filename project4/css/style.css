@@ -116,9 +116,12 @@ footer{
 	font-weight: 200
 }
 #contact-box{
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
 	position: absolute;
 	top: 50%;
-	left:50%
+	left:0%
 	bottom: 0;
 	width:200px;
 	padding: 20px;
