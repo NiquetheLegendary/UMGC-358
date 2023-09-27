@@ -113,7 +113,7 @@ footer{
 	font-size: 14px;
 	word-spacing: 2px;
 	text-transform: capitalize;
-	color: white;
+	
 }
 .footer-bottom span{
 	text-transform: uppercase;
@@ -133,7 +133,7 @@ h2{
 	font-size: 18px;
 }
 p{
-	color: black;
+	color: white;
 	font-family: "verdana", Arial, san-serif;
 	alignment: left;
 	font-size: 14px;
