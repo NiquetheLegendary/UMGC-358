@@ -22,22 +22,19 @@ nav .logo p{
 }
 
 nav topnav{
-	overflow: hidden;
-	background-color:#ebf6f9
+	float:right;
+	
 }
 
 nav topnav a{
-	float: left;
-    	padding: 14px 16px ;
-	text-align: center;
-	color: #000;
-	text-decoration: none;
-	font-size: 17px;	   
+	display: inline-block;
+	list-style: none;
 }
 
 nav topnav a:hover{
     	background-color: #ddd;
-	color: black;	
+	color: black;
+	
 
 }
 
