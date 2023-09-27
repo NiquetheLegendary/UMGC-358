@@ -116,9 +116,9 @@ footer{
 	font-weight: 200
 }
 #contact-box{
-	position: relative;
+	position: flex;
 	left:150px;
-	top: 3000px;
+	top: 300px;
 	padding: 20px;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,0.5);
