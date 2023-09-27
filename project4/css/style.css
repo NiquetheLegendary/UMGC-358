@@ -119,12 +119,12 @@ footer{
 	display: flex;
 	justify-content: flex-end;
 	align-items: flex-end;
-	width:200px;
+	width:100vw;
 	padding: 20px;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,0.5);
 	box-sizing: border-box
-	box-shadow: 0 15px 25px rgba(0,0,0,0.6);
+	box-shadow: 0 5px 5px rgba(0,0,0,0.6);
 	border-radius: 10px;
 }
 #contact-box a{
