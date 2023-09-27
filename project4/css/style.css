@@ -20,16 +20,13 @@ nav .logo p{
 	letter-spacing: 1.5px;
 	cursor: pointer;
 }
-
 nav ul{
 	float:right;	
 }
-
 nav li{
 	display: inline-block;
 	list-style: none;
 }
-
 nav li a{
     	font-size: 18px;
 	text-transform: uppercase;
@@ -37,4 +34,7 @@ nav li a{
 	text-decoration: none;
 	color: white;	
 }
-
+nav li a:hover{
+	color: #ff8c69;
+	transition: all 0.4s ease 0s;
+}
