@@ -4,13 +4,16 @@
 	box-sizing: border-box;
 	font-family:"verdana", Arial, san-serif;
 }
+
+/* NAVIGATION BAR */
 nav{
 	width:100%;
 	height:75px;
 	line-height:75px;
 	padding:0px 100px;
 	position: fixed;
-	background-image:linear-gradient(#033747,#012733);	
+	background-image:linear-gradient(#033747,#012733);
+	top: 0;
 }
 nav .logo p{
 	font-size: 30px;
@@ -39,6 +42,9 @@ nav li a:hover{
 	color: #ff8c69;
 	transition: all 0.4s ease 0s;
 }
+
+
+/* ABOUT PAGE */
 .about{
 	width: 100%
 	padding: 78px 0px;
@@ -47,7 +53,7 @@ nav li a:hover{
 .about img{
     	height: auto;
 	width: 420px;
-	padding: 30px 0px;
+	padding: 60px 0px;
 }
 
 
