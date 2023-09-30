@@ -1,8 +1,11 @@
 *{
-	margin:0px;
-	padding: 0px;
-	box-sizing: border-box;
+	margin: 0;
+	Background-color: black;
+	text-color: #ffffff;
 	font-family:"verdana", Arial, san-serif;
+	position: relative;
+	padding-bottom: 16.8px;
+	min-height: 100vh;
 }
 
 /* NAVIGATION BAR */
