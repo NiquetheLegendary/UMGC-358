@@ -79,12 +79,20 @@ nav li a:hover{
 	margin-bottom: 10px;
 }
 .about us heading p{
-	font-size: 20px;
+	font-size: 28px;
 	color:#666;
-	margin-bottom: 50px;
-	position: absolute;
-	padding-bottom: 50px
+	margin-bottom: 15px;
+	position: relative;
+	padding-bottom: 10px
 	border-bottom: 1px solid #e0e0e0;
+}
+.about us heading p::after{
+	content:'';
+	display:block;
+	position: absolute;
+	width: 80px;
+	height: 3px;
+	bottom:-3px;
 }
 .about-us{
 	display:flex;
