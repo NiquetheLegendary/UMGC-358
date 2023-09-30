@@ -154,19 +154,18 @@ h3{
 	positions: centered;
 }
 .homepage{
-	display:flex;
+	display: flex;
 	align-items: center;
 	width:85%;
-	margin:auto;
+	margin: auto;
 }
 .homepage content{
-	padding: 30px;
+	padding:60px;
 }
 .homepage content h1{
 	color: #36455c;
 	font-size: 50px;
-	margin: 15px 0px;
-	padding-top: 50px; 
+	margin: 15px 0px; 
 }
 .homepage content h2{
 	color: #36455c;
@@ -178,7 +177,6 @@ h3{
 	font-size: 18px;
 	line-height: 5.5;
 	margin: 15px 0px;
-	padding-top: 50px
 }
 
 
