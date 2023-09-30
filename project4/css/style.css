@@ -73,15 +73,15 @@ nav li a:hover{
 	max-width: 50%;
 	height: auto;
 }
-.content{
+.about-us content{
 	padding: 35px;
 }
-.content h2{
+.about-us content h2{
 	color: #36455c;
 	font-size: 24px;
 	margin: 15px 0px;
 }
-.content p{
+.about-us content p{
 	color: #666;
 	font-size: 18px;
 	line-height: 1.5;
@@ -102,9 +102,42 @@ nav li a:hover{
 	background-color: #006dd6;
 }
 
+/* HOME PAGE */
 
 
-
+#h3{
+	color: white;
+	font-size: 80px;
+	text-align: right-center;
+}
+.figure img{
+	height:300px
+}
+.homepage{
+	display:flex;
+	align-items: center;
+	width:85%;
+	margin:auto;
+}
+.homepage content{
+	padding: 35px;
+}
+.homepage content h1{
+	color: #36455c;
+	font-size: 50px;
+	margin: 15px 0px;
+}
+.homepage content h2{
+	color: #36455c;
+	font-size: 24px;
+	margin: 15px 0px;
+}
+.homepage content p{
+	color: #666;
+	font-size: 18px;
+	line-height: 1.5;
+	margin: 15px 0px;
+}
 
 
 
