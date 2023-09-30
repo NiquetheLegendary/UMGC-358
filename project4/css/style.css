@@ -1,13 +1,8 @@
 *{
 	margin: 0px;
-	Background-color: #fcfcfc;
-	text-color: #00000;
-	font-family:"verdana", Arial, san-serif;
-	position: relative;
 	min-height: 100vh;
 	padding: 0px;
 	box-sizing: border-box;
-	font-family:"verdana", Arial, san-serif;
 }
 
 /* NAVIGATION BAR */
