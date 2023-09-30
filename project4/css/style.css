@@ -70,11 +70,11 @@ nav li a:hover{
 }
 .about-us img{
 	flex: 0 50px;
-	max-width: 50%;
+	max-width:100%;
 	height: auto;
 }
 .about-us content{
-	padding: 65px;
+	padding: 35px;
 }
 .about-us content h2{
 	color: #36455c;
@@ -109,10 +109,11 @@ nav li a:hover{
 	color: white;
 	font-size: 40px;
 	text-align: right-center;
-	padding-top: auto;
+	padding-bottom: auto;
 }
 .figure img{
-	height:300px
+	height:500px
+	positions: centered;
 }
 .homepage{
 	display:flex;
@@ -121,7 +122,7 @@ nav li a:hover{
 	margin:auto;
 }
 .homepage content{
-	padding: 65px;
+	padding: 35px;
 }
 .homepage content h1{
 	color: #36455c;
@@ -136,7 +137,7 @@ nav li a:hover{
 .homepage content p{
 	color: #666;
 	font-size: 18px;
-	line-height: 1.5;
+	line-height: 5.5;
 	margin: 15px 0px;
 }
 
