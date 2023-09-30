@@ -165,18 +165,21 @@ h3{
 .homepage content h1{
 	color: #36455c;
 	font-size: 50px;
-	margin: 15px 0px; 
+	margin: auto;
+	align-item: center;
 }
 .homepage content h2{
 	color: #36455c;
 	font-size: 24px;
-	margin: 15px 0px;
+	margin: auto;
+	align-item: center;
 }
 .homepage content p{
 	color: #666;
 	font-size: 18px;
 	line-height: 5.5;
 	margin: 15px 0px;
+	text-align: justify;
 }
 
 
