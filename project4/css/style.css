@@ -54,19 +54,19 @@ h1{
 	color: black;
 	font-family: "verdana", Arial, san-serif;
 	alignment: center;
-	font-size: 22px;
+	font-size: 16px;
 }
 h2{
 	color: black;
 	font-family: "verdana", Arial, san-serif;
 	alignment: center;
-	font-size: 18px;
+	font-size: 12px;
 }
 p{
 	color: white;
 	font-family: "verdana", Arial, san-serif;
 	alignment: left;
-	font-size: 14px;
+	font-size: 10px;
 }
 .about{
 	width: 100%
@@ -74,8 +74,8 @@ p{
 	background-color: #191919;
 }
 .about img{
-	height: auto;
-	width: 420 px;
+	height: 300px;
+	width: 210px;
 }
 .about-text{
 	width: 550px;
