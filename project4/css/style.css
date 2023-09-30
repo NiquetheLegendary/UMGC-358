@@ -55,5 +55,14 @@ nav li a:hover{
 	width: 420px;
 	padding: 60px 0px;
 }
-
-
+.about-text{
+	width: 550px;
+}
+.main{
+	width: 1130px;
+	max-width: 95%
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
