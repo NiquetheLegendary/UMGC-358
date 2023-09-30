@@ -96,6 +96,7 @@ nav li a:hover{
 	position: relative;
 	padding-bottom: 10px
 	border-bottom: 1px solid #e0e0e0;
+	text-decoration: underline;
 }
 .about us heading p::after{
 	content:'';
