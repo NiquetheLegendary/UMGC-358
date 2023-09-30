@@ -12,7 +12,9 @@ h1 {
 	font-family: "verdana", Arial, san-serif;
 	font-size:30px; 
 	align: center;
-	font-weight: bold;
+	font-weight: italicize;
+	margin: auto;
+	align-item: center;
 }
 
 h2 {
@@ -21,6 +23,8 @@ h2 {
 	font-size:20px; 
 	align: center;
 	font-weight: bold;
+	margin: auto;
+	align-item: center;
 }
 p {
 	color: black;
