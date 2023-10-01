@@ -271,6 +271,18 @@ ol{
 	list-style-position: inside;
 	line-height: 2.6;
 }
-
+.Guarantees h2{
+	color: #36455c;
+	font-size: 24px;
+	margin: auto;
+	align-item: center;
+}
+.Guarantees p{
+	color: #666;
+	font-size: 18px;
+	line-height: 5.5;
+	margin: 15px 0px;
+	text-align: justify;
+}
 
 	
