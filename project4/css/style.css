@@ -240,6 +240,7 @@ h3{
 .figure img{
 	height:500px
 	positions: centered;
+	width: 100vw;
 }
 .homepage{
 	display: flex;
