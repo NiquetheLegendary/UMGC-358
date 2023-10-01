@@ -43,6 +43,7 @@
 	transition: all 0.4s ease 0s;
 }
 /*NAVIGATION BAR END */
+
 /* SETTINGS */
 body{
 	background-color:#dee0e3
@@ -221,12 +222,7 @@ th{
 .btn:hover{
 	background-color: #006dd6;
 }
-ul{
-	list-style-type: square;
-	text-align: center;
-	list-style-position: inside;
-	line-height: 2.6;
-}
+
 
 /* HOME PAGE */
 
