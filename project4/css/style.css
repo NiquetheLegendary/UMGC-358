@@ -86,6 +86,7 @@ th{
 	cursor: pointer;
 	background: transparent;
 	transition: transform 0.5s, background 0.5s;
+	text-decoration: underline
 }
 .service i{
 	font-size: 40px;
