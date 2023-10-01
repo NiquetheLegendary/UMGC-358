@@ -24,6 +24,12 @@ h2 {
 	margin: auto;
 	
 }
+ #h5{
+	 padding: 0px;
+	 color:black; 
+	 font-size:40px; 
+	 text-align:center"
+    }
 p {
 	color: black;
 	font-family: "verdana", Arial, san-serif;
@@ -34,6 +40,17 @@ p {
 a{
 	text-decoration: none;
 	color: inherit;
+}
+table, td, th {
+	border: 1px solid white;
+}
+#table1{
+	border-collapse: separate;
+	padding: 30px;
+	color: black;
+}
+th{
+	font-size: 60px;
 }
 
 /* NAVIGATION BAR */
