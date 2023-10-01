@@ -31,6 +31,11 @@ p {
 	margin: 20px;
 }
 
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
 /* NAVIGATION BAR */
 nav{
 	width:100%;
@@ -122,7 +127,7 @@ nav li a:hover{
 	line-height: 1.5;
 	margin: 15px 0px;
 }
-.contact-us-btn{
+.btn{
 	display: inline-block;
 	color: #fff;
 	background-color: #0084ff;
@@ -133,7 +138,7 @@ nav li a:hover{
 	cursor: pointer;
 	transition: 0.2s ease;
 }
-.contact-us-btn:hover{
+.btn:hover{
 	background-color: #006dd6;
 }
 ul{
