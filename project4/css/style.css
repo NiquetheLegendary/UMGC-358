@@ -67,7 +67,8 @@ th{
 .container h1::after{
 	content: ";
 	background: #303ef7;
-	width: 5px;
+	width: 100px;
+	height: 5px;
 	position: absolute;
 	bottom: -5px;
 	left: 50%;
