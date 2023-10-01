@@ -65,7 +65,7 @@ th{
 	position: relative;
 }
 .container h1::after{
-	content: '';
+	content: ";
 	background: #303ef7;
 	width: 5px;
 	position: absolute;
