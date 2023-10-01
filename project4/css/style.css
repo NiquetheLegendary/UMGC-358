@@ -25,12 +25,13 @@ h2 {
 	font-weight: bold;
 	margin: auto;
 	
+	
 }
  #h5{
 	 padding: 0px;
 	 color:black; 
 	 font-size:40px; 
-	 text-align:center"
+	 text-align: center;
     }
 p {
 	color: black;
@@ -159,6 +160,7 @@ th{
 	font-size: 50px;
 	color: #36455c;
 	margin-bottom: 10px;
+	text-align: center;
 }
 .about us heading p{
 	font-size: 28px;
@@ -195,6 +197,7 @@ th{
 	color: #36455c;
 	font-size: 24px;
 	margin: 15px 0px;
+	text-align: center;
 }
 .about-us content p{
 	color: #666;
