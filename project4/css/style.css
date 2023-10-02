@@ -277,8 +277,6 @@ th{
 	font-size: 18px;
 	cursor: pointer;
 	transition: 0.2s ease;
-	margin: 30px 40px;
-	
 }
 .btn:hover{
 	background-color: #006dd6;
