@@ -276,6 +276,7 @@ th{
 	transition: 0.2s ease;
 	width: 10%;
 	height: 10%;
+	margin: 15px 0px;
 	
 }
 .btn:hover{
