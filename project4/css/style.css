@@ -273,12 +273,12 @@ th{
 	background-color: #0084ff;
 	border: none;
 	border-radius: 5px;
-	padding: 14px 20px;
+	padding: 60px 60px;
 	font-size: 18px;
 	cursor: pointer;
 	transition: 0.2s ease;
 	width: 10%;
-	height: 10vh;
+	height: 10%;
 	margin: 30px 40px;
 	
 }
@@ -331,7 +331,7 @@ img{
 	color: #666;
 	font-size: 18px;
 	line-height: 5.5;
-	margin: 15px 15px;
+	margin: 15px 0px;
 	text-align: justify;
 }
 
