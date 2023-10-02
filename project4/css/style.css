@@ -277,8 +277,6 @@ th{
 	font-size: 18px;
 	cursor: pointer;
 	transition: 0.2s ease;
-	width: 10%;
-	height: 10%;
 	margin: 30px 40px;
 	
 }
@@ -350,7 +348,6 @@ footer{
 	background: linear-gradient(#033747,#012733);
 	font-size: 18px;
 	padding: 20px;
-	width: 100%;
 	text-align: center;
 	position: absolute;
 	bottom: 0;
