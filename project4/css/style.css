@@ -61,7 +61,7 @@ h1 {
 	font-family: "verdana", Arial, san-serif;
 	font-size:30px; 
 	font-weight: italicize;
-	margin: auto;
+	margin: 20px;
 	text-align: center;
 }
 
@@ -70,7 +70,7 @@ h2 {
 	font-family: "verdana", Arial, san-serif;
 	font-size:20px; 
 	font-weight: bold;
-	margin: auto;
+	margin: 20px;
 	text-align: center;
 	
 	
@@ -85,13 +85,13 @@ p {
 	color: black;
 	font-family: "verdana", Arial, san-serif;
 	font-size:16px;
-	margin: auto;
+	margin: 20px;
 }
 p1 {
 	color: green;
 	font-family: "verdana", Arial, san-serif;
 	font-size:22px;
-	margin: auto;
+	margin: 20px;
 	font-style: italic;
 	font-weight: bold;
 }
@@ -99,7 +99,7 @@ p2 {
 	color: white;
 	font-family: "verdana", Arial, san-serif;
 	font-size:14px;
-	margin: auto;
+	margin: 20px;
 	font-weight: bold;
 }
 a{
@@ -276,13 +276,13 @@ img{
 .homepage content h1{
 	color: #5353c6;
 	font-size: 50px;
-	margin: 20px;
+	margin: auto;
 	align-item: center;
 }
 .homepage content h2{
 	color: #5353c6;
 	font-size: 24px;
-	margin: 20px;
+	margin: auto;
 	align-item: center;
 }
 .homepage content p{
@@ -304,7 +304,7 @@ ol{
 .Guarantees h2{
 	color: #36455c;
 	font-size: 24px;
-	margin: 20px;
+	margin: auto;
 	align-item: center;
 	text-align: center;
 }
