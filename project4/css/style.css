@@ -1,4 +1,4 @@
-	q*{
+*{
 	margin: 0px;
 	padding: 0px;
 	box-sizing: border-box;
@@ -235,7 +235,7 @@ h3{
 .figure img{
 	height:500px
 	positions: centered;
-	width: 100vw;
+	width: 100%;
 }
 .homepage{
 	display: flex;
