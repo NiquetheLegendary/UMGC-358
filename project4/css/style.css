@@ -344,6 +344,11 @@ ol{
 	text-align: center;
 	padding: 60px;
 }
+.success{
+	width: 50%;
+	padding: 10px;
+	margin: auto;
+}
 /* HOME PAGE END */
 
 
