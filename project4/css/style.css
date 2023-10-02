@@ -253,7 +253,7 @@ th{
 	padding-top: 50px;
 	width: 100%;
 	height: 100vh;
-	padding: 0 8%;
+	padding: 0 20%;
 }
 .about-us content h2{
 	color: #36455c;
@@ -277,9 +277,9 @@ th{
 	font-size: 18px;
 	cursor: pointer;
 	transition: 0.2s ease;
-	width: 30%;
-	height: 30vh;
-	margin: 30px 0px;
+	width: 10%;
+	height: 10vh;
+	margin: 30px 40px;
 	
 }
 .btn:hover{
@@ -331,7 +331,7 @@ img{
 	color: #666;
 	font-size: 18px;
 	line-height: 5.5;
-	margin: 15px 0px;
+	margin: 15px 15px;
 	text-align: justify;
 }
 
