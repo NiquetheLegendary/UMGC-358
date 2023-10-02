@@ -353,10 +353,10 @@ footer{
 	width: 100%;
 	text-align: center;
 	position: absolute;
-	bottom: 0;	
-}
-footer{
-	height: 15vh;
+	bottom: 0;
+	right: 0;
+	Left: 0;
+
 }
 
 
