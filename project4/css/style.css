@@ -251,6 +251,9 @@ th{
 }
 .about-us content{
 	padding-top: 50px;
+	width: 100%;
+	height: 100vh;
+	padding: 0 8%;
 }
 .about-us content h2{
 	color: #36455c;
