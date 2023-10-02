@@ -176,9 +176,14 @@ th{
 .wrapper{
 	margin: 150px auto;
 	width: 70%
+	margin: 15px 0px;
+	text-align: justify;
 }
 
-
+.div h2, p{
+	margin: 15px 0px;
+	text-align: justify;
+}
 /* ABOUT PAGE */
 .about us heading{
 	text-align: center;
