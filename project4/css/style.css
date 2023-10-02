@@ -276,13 +276,13 @@ img{
 .homepage content h1{
 	color: #5353c6;
 	font-size: 50px;
-	margin: auto;
+	margin: 20px;
 	align-item: center;
 }
 .homepage content h2{
 	color: #5353c6;
 	font-size: 24px;
-	margin: auto;
+	margin: 20px;
 	align-item: center;
 }
 .homepage content p{
@@ -304,7 +304,7 @@ ol{
 .Guarantees h2{
 	color: #36455c;
 	font-size: 24px;
-	margin: auto;
+	margin: 20px;
 	align-item: center;
 	text-align: center;
 }
@@ -322,7 +322,7 @@ footer{
 	font-size: 18px;
 	padding: 20px;
 	text-align: center;
-	position: relative;
+	position: absolute;
 	right: 0;
 	left: 0;
 	bottom: 0;
