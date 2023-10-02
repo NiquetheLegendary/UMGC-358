@@ -45,7 +45,7 @@ nav li a:hover{
 
 /* SETTINGS */
 body{
-	background-color:#dee0e3
+	background-color:#dee0e3;
 }
 h1 {
 	color: black;
@@ -150,7 +150,10 @@ th{
 .service:hover i{
 	color: #fff;
 }
-
+.wrapper{
+	margin: 150px auto;
+	width: 70%
+}
 
 
 /* ABOUT PAGE */
@@ -232,7 +235,7 @@ h3{
 	text-align: right-center;
 	padding-bottom: auto;
 }
-.figure img{
+img{
 	height:500px
 	positions: centered;
 	width: 100%;
